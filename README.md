@@ -1,11 +1,11 @@
 codeofconduct
 =============
 
-#### Code & Coffee: Uptown Brigade's Code of Conduct
+#### Open Uptown's Code of Conduct
 ###### Adapted from the <a href="https://github.com/codeforamerica/codeofconduct">CfA Code of Conduct</a>.
 _not affiliated with <a href="https://codeforamerica.org">Code for America</a>_
 
-The Code & Coffee: Uptown Brigade community expects that Code & Coffee: Uptown Brigade events, and digital forums:
+The Open Uptown community expects that Open Uptown events, and digital forums:
 
 1. Are a safe and respectful environment for all participants.
 2. Are a place where people are free to fully express their identities.
@@ -20,9 +20,9 @@ The Code & Coffee: Uptown Brigade community expects that Code & Coffee: Uptown B
 11. Ensure that the relationships and conversations between community members, the local government staff and community partners remain respectful, participatory, and productive.
 12. Provide an environment where people are free from discrimination or harassment.
 
-Code & Coffee: Uptown Brigade reserves the right to ask anyone in violation of these policies not to participate in Code & Coffee: Uptown Brigade network activities, events, and digital forums.
+Open Uptown reserves the right to ask anyone in violation of these policies not to participate in Open Uptown network activities, events, and digital forums.
 
-#### Code & Coffee: Uptown Brigade's Anti-Harassment Policy
+#### Open Uptown's Anti-Harassment Policy
 
 This anti-harassment policy is based on <a href="http://geekfeminism.wikia.com/wiki/Conference_anti-harassment/Policy">the example policy</a> from the Geek Feminism wiki, created by the Ada Initiative and other volunteers.
 
@@ -30,28 +30,28 @@ This policy is based on several other policies, including the <a href="https://o
 
 * * *
 
-All Code & Coffee: Uptown Brigade events, and digital forums and their participants are held to an anti-harassment policy, included below.
+All Open Uptown events, and digital forums and their participants are held to an anti-harassment policy, included below.
 
-In addition to governing our own events by this policy, Code & Coffee: Uptown Brigade will only lend our brand and fund groups that offer an anti-harassment policy to their attendees. For information on how to offer an anti-harassment policy to your group, <a href="https://docs.google.com/a/codeforamerica.org/document/d/1Zg2FDt7awgfCmdcbzMwKHMb1A7KDOhs_z7ibCb3TLLQ/edit">see this guide</a>.
+In addition to governing our own events by this policy, Open Uptown will only lend our brand and fund groups that offer an anti-harassment policy to their attendees. For information on how to offer an anti-harassment policy to your group, <a href="https://docs.google.com/a/codeforamerica.org/document/d/1Zg2FDt7awgfCmdcbzMwKHMb1A7KDOhs_z7ibCb3TLLQ/edit">see this guide</a>.
 
-Code & Coffee: Uptown Brigade is dedicated to providing a harassment-free experience for everyone regardless of gender, gender identity and expression, sexual orientation, disability, physical appearance, body size, race, age, or religion. We do not tolerate harassment of staff, presenters, and participants in any form. Sexual language and imagery is not appropriate for any Code & Coffee: Uptown Brigade event or network activity, including talks. Anyone in violation of these policies may expelled from Code & Coffee: Uptown Brigade network activities, events, and digital forums, at the discretion of the event organizer or forum administrator.
+Open Uptown is dedicated to providing a harassment-free experience for everyone regardless of gender, gender identity and expression, sexual orientation, disability, physical appearance, body size, race, age, or religion. We do not tolerate harassment of staff, presenters, and participants in any form. Sexual language and imagery is not appropriate for any Open Uptown event or network activity, including talks. Anyone in violation of these policies may expelled from Open Uptown network activities, events, and digital forums, at the discretion of the event organizer or forum administrator.
 
 Harassment includes but is not limited to: offensive verbal or written comments related to gender, gender identity and expression, sexual orientation, disability, physical appearance, body size, race, religion; sexual images in public spaces; deliberate intimidation; stalking; following; harassing photography or recording; sustained disruption of talks or other events; inappropriate physical contact; unwelcome sexual attention; unwarranted exclusion; and patronizing language or action.
 
-If a participant engages in harassing behavior, the organizers may take any action they deem appropriate, including warning the offender or expulsion from Code & Coffee: Uptown Brigade network activities, events, and digital forums.
+If a participant engages in harassing behavior, the organizers may take any action they deem appropriate, including warning the offender or expulsion from Open Uptown network activities, events, and digital forums.
 
 If you are being harassed, notice that someone else is being harassed, or have any other concerns, please notify an organizer immediately. You can contact us at `info@uptown.codes` or `@ryan-koch` / `@csethna` on Slack. Event staff or forum administrators will be happy to help participants contact local law enforcement, provide escorts, or otherwise assist those experiencing harassment to feel safe for the duration of the event.
 
 If you cannot reach an event organizer or forum administrator and/or it is an emergency, please call 911 and/or remove yourself from the situation.
 
-You can also contact Code & Coffee: Uptown Brigade about harassment at safespace@codeforamerica.org and feel free to use the email template below. Code & Coffee: Uptown Brigade staff acknowledge that we are not always in a position to evaluate a given situation due to the number of events and the fact that our team is not always present. However, we are hopeful that by providing these guidelines we are establishing a community that jointly adheres to these values and can provide an environment that is welcoming to all.
+You can also contact Open Uptown about harassment at safespace@codeforamerica.org and feel free to use the email template below. Open Uptown staff acknowledge that we are not always in a position to evaluate a given situation due to the number of events and the fact that our team is not always present. However, we are hopeful that by providing these guidelines we are establishing a community that jointly adheres to these values and can provide an environment that is welcoming to all.
 
 We value your attendance and hope that by communicating these expectations widely we can all enjoy a harassment-free environment.
 
 #### Email Template for Anti-Harassment Reporting
 
-SUBJECT: Safe Space alert at Code & Coffee: Uptown Brigade (event, if applicable)
+SUBJECT: Safe Space alert at Open Uptown (event, if applicable)
 
-I am writing because of harassment at a Code & Coffee: Uptown Brigade Communities event, (NAME, PLACE, DATE OF EVENT).
+I am writing because of harassment at a Open Uptown Communities event, (NAME, PLACE, DATE OF EVENT).
 
 You can reach me at (CONTACT INFO). Thank you.
