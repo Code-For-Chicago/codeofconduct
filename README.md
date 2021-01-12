@@ -1,7 +1,7 @@
 codeofconduct
 =============
 
-#### Open Uptown's Code of Conduct
+#### Code for Chicago's Code of Conduct
 ###### Adapted from the <a href="https://github.com/codeforamerica/codeofconduct">CfA Code of Conduct</a>. We are an official brigade.
 
 The Open Uptown community expects that Open Uptown events, and digital forums:
